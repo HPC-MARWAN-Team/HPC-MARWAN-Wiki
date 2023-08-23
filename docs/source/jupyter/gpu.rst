@@ -15,3 +15,5 @@ ci dessous un exemple de création de kernel pour GPU
 et son exploitation sur un exemple de notebook affichant le nom du noeud  et le type de carte GPU
 
 .. image:: /source/figures/portal-jupyter/notebook_gpu.jpg
+
+
