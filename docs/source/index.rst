@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
-===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. HPC-MARWAN documentation master file, created by
+   sphinx-quickstart on Thu Sep 30 14:40:43 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Le wiki HPC-MARWAN
+******************
 
-.. note::
+Bienvenue sur le wiki  de calcul haute performance (HPC) du centre national pour le recherche scientifique et technique.
 
-   This project is under active development.
 
-Contents
---------
+Sommaire
+=================
 
 .. toctree::
-
-   usage
-   api
+   :maxdepth: 2
+      
+   Guide utilisateur <source/guideutilsateur/indexguide.rst>
+   Tutoriel <source/tutoriel/tuto.rst>
+   FAQ <source/faq.rst>
