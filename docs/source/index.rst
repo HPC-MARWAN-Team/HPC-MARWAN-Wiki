@@ -16,6 +16,6 @@ Sommaire
 .. toctree::
    :maxdepth: 2
       
-   Guide utilisateur <source/guideutilsateur/indexguide.rst>
-   Tutoriel <source/tutoriel/tuto.rst>
-   FAQ <source/faq.rst>
+   Guide utilisateur <guideutilsateur/indexguide.rst>
+   Tutoriel <tutoriel/tuto.rst>
+   FAQ <faq.rst>
