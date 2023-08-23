@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HPC-MARWAN Documentation'
+copyright = '2023, HPC-MARWAN Team'
+author = 'HPC-MARWAN Team'
 
 release = '0.1'
 version = '0.1.0'
